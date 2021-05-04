@@ -1,39 +1,39 @@
-#NETWORK
+#NETWORK:
 172.16.0.0
-#IP NETWORK IN THE BINARY SYSTEM
+#IP NETWORK IN THE BINARY SYSTEM:
 10101100.00010000.00000000.00000000
 ----------
-#HOSTS
+#HOSTS:
 24
 #AS NECESSARY 24 HOSTS, THE CALCULATION RESULT IN MASK 255.255.255.224 (OR PREFIX /27).
 ---------------------------------------------------------------------------------------------
-#MASK
+#MASK:
 255.255.255.224
-#MASK IN THE BINARY SYSTEM
+#MASK IN THE BINARY SYSTEM:
 11111111.11111111.11111111.11100000
-#WILDCARD
+#WILDCARD:
 0.0.0.31
-#PREFIX
+#PREFIX:
 27
 =============================================================================================
 
-#ADDRESS NETWORK
+#ADDRESS NETWORK:
 172.16.0.0
 ----------------
-#START ADDDRESS
+#START ADDDRESS:
 172.16.0.1
 ----------------
-#LAST ADDRESS
+#LAST ADDRESS:
 172.16.0.30
 ----------------
-#BROADCAST
+#BROADCAST:
 172.16.0.31
 ----------------
-#NEXT ADDRESS NETWORK
+#NEXT ADDRESS NETWORK:
 172.16.0.32
 ==============================================================================================
 
-#RANGE IP-ADDRESS
+#RANGE IP-ADDRESS:
 172.16.0.1-172.16.0.30
 ----------------------
 #BECAUSE WE NEED ONLY 24 HOST, IT TURNS OUT RANGE IP-ADDRESS:
